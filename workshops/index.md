@@ -9,7 +9,7 @@ show_sidebar: true
 # Call for Workshops/Tutorials
 
 We are soliciting proposals for workshops and tutorials within [the general scope of PACT](../submit). Members of the community are encouraged to submit proposals for workshops and tutorials that bring together researchers and practitioners to share their tools, technologies, latest results and to discuss work in progress and new directions. Topics on distributed system innovations leveraging new device and packaging innovations, trends in heterogeneous computing based on domain specific accelerators, compilation/system-management for such systems, and addressing emerging applications domains, are encouraged.  
-
+<!-- 
 Those interested in organizing a workshop or tutorial are invited to contact the Workshops and Tutorials Chair Hoda Naghibijouybari, [hnaghibi@qti.qualcomm.com](hnaghibi@qti.qualcomm.com). We will be doing rolling acceptances and encourage potential organizers to contact us as soon as possible.
 
 ## Important Dates
@@ -38,5 +38,5 @@ Proposals should be submitted to Hoda Naghibijouybari, [hnaghibi@qti.qualcomm.co
 * Duration (half day / full day)
 *	Expected and maximum number of participants
 *	Information on past workshops on the same topic with statistics on the number of attendees/submissions
-
+-->
 
