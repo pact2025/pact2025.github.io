@@ -17,11 +17,14 @@ For any inquiries and submissions please include Andreas Krall (andi@complang.tu
 We will be doing rolling acceptances and encourage potential organizers to contact us as soon as possible.
 
 # Important Dates
+TBD
 
+<!-- 
 * Submission deadline for workshops: July 3rd, 2023.
 * Submission deadline for tutorials: August 14st, 2023.
 * Workshop/Tutorials to be held October 21-22, 2023.
-
+-->
+<!--
 # Proposal Submission
 
 Proposals should be submitted to Ana Lucia Varbanescu (a.l.varbanescu@utwente.nl),
@@ -48,3 +51,4 @@ and include the following information in a PDF file (2-3 pages):
 * Duration (half day / full day)
 * Expected and maximum number of participants
 * Information on past workshops on the same topic with statistics on the number of attendees/submissions
+-->
