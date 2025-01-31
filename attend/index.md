@@ -7,6 +7,7 @@ show_sidebar: true
 ---
 
 # Attending PACT 2025
+<!-- 
 
 What's on this page
 
@@ -18,16 +19,7 @@ What's on this page
 
 ## Venue
 
-PACT 2025 will be held at the <br>
-
-[Hilton Irvine](https://www.hilton.com/en/hotels/lgblhhf-hilton-long-beach/) <br>
-701 West Ocean Boulevard, <br> 
-Irvine, California 90831-3102 USA <br>
-Phone number: +1 562-983-3400 <br>
-
-To book rooms at the venue, guests may call Hilton reservations at 1-800-445-8667 and reference group code 92X or use this [hotel reservation link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=LGBLHHF&arrivalDate=2024-10-12&departureDate=2024-10-17&groupCode=92X&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink).
-<br>
-**The last day for guest to make reservations is Friday, September 27, 2024.**
+PACT 2025 will be held at TBD <br>
 
 <br>
 
@@ -58,7 +50,7 @@ See [pricing via our registration vendor](https://web.cvent.com/event/b3dea94b-e
 | Student Non-Member          | | $750.00    | | $825.00  |
 | Additional Excursion Ticket | | $200.00    | | $200.00  |
 
-<!-- <br> -->
+
 
 ### Tutorials/Workshops
 
@@ -69,9 +61,11 @@ See [pricing via our registration vendor](https://web.cvent.com/event/b3dea94b-e
 | Student Member      | | $250.00    | | $350.00 |
 | Student Non-Member  | | $350.00    | | $450.00 |
 
-<!-- <br> -->
+
 
 ### Cancellation policy
 
 If you cancel your attendance on or before September 27, a $100 cancellation fee is due.
 Cancellations after this date do not receive a refund.
+
+-->
