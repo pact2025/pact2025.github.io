@@ -1,7 +1,7 @@
 # Student Research Competition
 
 <br>
-
+<!-- 
 ## ACM SRC winners
 
 ##### Graduate Student Category
@@ -28,6 +28,8 @@ Carnegie Mellon University <br>
 - **2nd Place:** Ishita Mehta <br>
 Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy" <br>
 University of Colorado Boulder <br>
+
+--> 
 
 ## About
 
@@ -71,21 +73,22 @@ Submit your work using the specified format:
 - Limit to 2 pages, excluding references.
 - Ensure anonymity in the PDF (double-blind submission).
 
-Submit your extended abstract at: [https://pact24src.hotcrp.com/](https://pact24src.hotcrp.com/)
+Submit your extended abstract at: [https://pact25src.hotcrp.com/](https://pact25src.hotcrp.com/)
 
 ## Important Dates
-
+TBD
+<!--
 - **Abstract Registration Deadline:** August 15, 2024
 - **Abstract Submission Deadline:** August 18, 2024
 - **Author Notification:** August 31, 2024
-
+-->
 ## Poster, Video, and Presentation Requirements
 
 
 ##### Poster Requirements
 
 - Organized and clear content
-- PDF submission by September 20, 2024
+- <!-- PDF submission by September 20, 2024 --> 
 - Print and bring your poster for presentation in-person
 
 
