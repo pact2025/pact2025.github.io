@@ -1,12 +1,12 @@
 ---
-title:        Attending PACT 2024
-description:  Information for attending PACT 2024
+title:        Attending PACT 2025
+description:  Information for attending PACT 2025
 id:           attend
 layout:       page_sidebar
 show_sidebar: true
 ---
 
-# Attending PACT 2024
+# Attending PACT 2025
 
 What's on this page
 
@@ -18,7 +18,7 @@ What's on this page
 
 ## Venue
 
-PACT 2024 will be held at the <br>
+PACT 2025 will be held at the <br>
 
 [Hilton Long Beach](https://www.hilton.com/en/hotels/lgblhhf-hilton-long-beach/) <br>
 701 West Ocean Boulevard, <br> 
@@ -33,7 +33,7 @@ To book rooms at the venue, guests may call Hilton reservations at 1-800-445-866
 
 ## Registration
 
-Registration for PACT 2024 is now open.
+Registration for PACT 2025 is now open.
 
 <a href="https://cvent.me/rgMYQZ" class="btn btn-primary btn-lg px-4 me-md-2">Register Now »</a>
 

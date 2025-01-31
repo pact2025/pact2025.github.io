@@ -1,6 +1,6 @@
 ---
 title:        Call for Workshops/Tutorials
-description:  Call for PACT 2024 Workshops/Tutorials
+description:  Call for PACT 2025 Workshops/Tutorials
 id:           workshops
 layout:       page_sidebar
 show_sidebar: true

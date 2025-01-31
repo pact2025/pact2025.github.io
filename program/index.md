@@ -1,5 +1,5 @@
 ---
-title: PACT 2024 Technical program
+title: PACT 2025 Technical program
 description: Preliminary program
 id:           program
 layout:       page_sidebar

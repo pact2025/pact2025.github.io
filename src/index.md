@@ -31,7 +31,7 @@ University of Colorado Boulder <br>
 
 ## About
 
-The Student Research Competition (SRC) at PACT 2024 provides a unique opportunity for students to present their research and receive feedback from experienced researchers in the community. This competition allows students to network, improve their presentation skills, and showcase their work to an audience of peers and experts. Both undergraduate and graduate students are encouraged to participate.
+The Student Research Competition (SRC) at PACT 2025 provides a unique opportunity for students to present their research and receive feedback from experienced researchers in the community. This competition allows students to network, improve their presentation skills, and showcase their work to an audience of peers and experts. Both undergraduate and graduate students are encouraged to participate.
 
 ## Eligibility Criteria
 

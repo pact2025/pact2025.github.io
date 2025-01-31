@@ -1,6 +1,6 @@
 ---
 title:        Sponsoring
-description:  PACT 2024 sponsoring
+description:  PACT 2025 sponsoring
 id:           sponsoring
 layout:       page_sidebar
 show_sidebar: true

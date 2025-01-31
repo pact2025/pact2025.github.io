@@ -1,17 +1,17 @@
 
 # Call for Papers
 
-PACT 2024 will be held in **Long Beach, California, USA**, during {{ site.data.vars.conf_dates }}.
+PACT 2025 will be held in **Long Beach, California, USA**, during {{ site.data.vars.conf_dates }}.
 
 **Submissions due: April 1, 2024**
 
-### *PACT 2024 includes a New Call for Tools and Practical Experience Papers*
+### *PACT 2025 includes a New Call for Tools and Practical Experience Papers*
 
 ## Scope
 
 The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference sitting at the intersection of hardware and software, with a special emphasis on parallelism. The PACT conference series brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications, to present and discuss their latest research results.
 
-PACT 2024 will be held as an in-person event in Long Beach, California, USA. At least one of the authors of accepted papers will be required to attend the conference, and we encourage all the authors to participate.
+PACT 2025 will be held as an in-person event in Long Beach, California, USA. At least one of the authors of accepted papers will be required to attend the conference, and we encourage all the authors to participate.
 
 
 Specific topics of interest include (but are not limited to):
@@ -42,7 +42,7 @@ Specific topics of interest include (but are not limited to):
 * Quantum computing architectures and compilers.
 
 
-In addition to the regular research papers, PACT 2024 has a special category of papers called 
+In addition to the regular research papers, PACT 2025 has a special category of papers called 
 “tools and practical experience” (TPE). Such papers are subject to the same page length 
 guidelines and will be reviewed by the same Program Committee.
 TPE papers focus on applicability (such as traditional methods employed in emerging fields), 
@@ -115,7 +115,7 @@ Authors must identify any conflicts-of-interest with PC members and external mem
 
 ## Artifact evaluation
 
-Authors of accepted PACT 2024 papers are encouraged to formally submit their supporting materials for Artifact Evaluation. The Artifact Evaluation process is run by a separate committee whose task is to assess the availability, functionality, and reproducibility of the work and experimental results described in the paper. Submission is voluntary. We strongly encourage authors to consider submitting artifacts for their work, including simulators for new architectural designs and extensions.
+Authors of accepted PACT 2025 papers are encouraged to formally submit their supporting materials for Artifact Evaluation. The Artifact Evaluation process is run by a separate committee whose task is to assess the availability, functionality, and reproducibility of the work and experimental results described in the paper. Submission is voluntary. We strongly encourage authors to consider submitting artifacts for their work, including simulators for new architectural designs and extensions.
 
 We encourage authors to prepare their artifacts for submission and make them more portable, reusable and customizable using open-source frameworks including [Docker](https://www.docker.com/), [OCCAM](https://occam.cs.pitt.edu/), [reprozip](https://www.reprozip.org/), [CodeOcean](https://codeocean.com/) and [CK](https://cknowledge.io/docs/).
 

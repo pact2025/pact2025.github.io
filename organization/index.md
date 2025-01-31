@@ -1,6 +1,6 @@
 ---
 title:        Organization
-description:  PACT 2024 organization
+description:  PACT 2025 organization
 id:           organization
 layout:       page_sidebar
 show_sidebar: true
