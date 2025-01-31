@@ -1,5 +1,6 @@
 # Student Research Competition
 
+<!--
 ## SRC Winners
 
 ### Graduate Student Category:
@@ -20,10 +21,11 @@ Carnegie Mellon University
 * 2nd Place: Ishita Mehta  
 Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy"  
 University of Colorado Boulder
+-->
 
 ## About
 
-The Student Research Competition (SRC) at PACT 2024 provides a unique opportunity for students to present their research and receive feedback from experienced researchers in the community. This competition allows students to network, improve their presentation skills, and showcase their work to an audience of peers and experts. Both undergraduate and graduate students are encouraged to participate.
+The Student Research Competition (SRC) at PACT 2025 provides a unique opportunity for students to present their research and receive feedback from experienced researchers in the community. This competition allows students to network, improve their presentation skills, and showcase their work to an audience of peers and experts. Both undergraduate and graduate students are encouraged to participate.
 
 ## Eligibility Criteria
 
@@ -63,20 +65,23 @@ Submit your work using the specified format:
 - Limit to 2 pages, excluding references.
 - Ensure anonymity in the PDF (double-blind submission).
 
-Submit your extended abstract at: [https://pact24src.hotcrp.com/](https://pact24src.hotcrp.com/)
+<!--
+Submit your extended abstract at: [https://pact25src.hotcrp.com/](https://pact25src.hotcrp.com/)
+-->
 
 ## Important Dates
-
+TBD
+<!--
 - **Abstract Submission Deadline:** July 31, 2024
 - **Author Notification:** August 31, 2024
-
+-->
 ## Poster, Video, and Presentation Requirements
 
 
 ##### Poster Requirements
 
 - Organized and clear content
-- PDF submission by September 20, 2024
+- <!-- PDF submission by September 20, 2024 -->
 - Print and bring your poster for presentation in-person
 
 
