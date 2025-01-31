@@ -1,7 +1,7 @@
 
 # Call for Papers
 
-PACT 2025 will be held in **Long Beach, California, USA**, during {{ site.data.vars.conf_dates }}.
+PACT 2025 will be held in **Irvine, California, USA**, during {{ site.data.vars.conf_dates }}.
 
 **Submissions due: April 1, 2024**
 
@@ -11,7 +11,7 @@ PACT 2025 will be held in **Long Beach, California, USA**, during {{ site.data.v
 
 The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference sitting at the intersection of hardware and software, with a special emphasis on parallelism. The PACT conference series brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications, to present and discuss their latest research results.
 
-PACT 2025 will be held as an in-person event in Long Beach, California, USA. At least one of the authors of accepted papers will be required to attend the conference, and we encourage all the authors to participate.
+PACT 2025 will be held as an in-person event in Irvine, California, USA. At least one of the authors of accepted papers will be required to attend the conference, and we encourage all the authors to participate.
 
 
 Specific topics of interest include (but are not limited to):
