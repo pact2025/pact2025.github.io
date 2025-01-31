@@ -1,5 +1,5 @@
 ---
-title: PACT 2024 Artifact evaluation
+title: PACT 2025 Artifact evaluation
 description:  Artifact evaluation instructions
 id:           ae
 layout:       page_sidebar
@@ -10,10 +10,13 @@ show_sidebar: true
 
 _Note: This page is based on the [submission guidelines for artifact evaluation set by ML Commons](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/submission.md)._
 
-PACT 2024 will conduct artifact evaluation (AE) this year. AE has become a common practice in the systems and architecture community (OSDI, PLDI, PACT, ISCA, MICRO, MLSys, HPCA, ASPLOS). We invite the authors of accepted PACT 2024 papers to submit their artifacts to be assessed based on the ACM Artifact Review and Badging policy. Note that this submission is voluntary and will not influence the final decision regarding the papers. 
+PACT 2025 will conduct artifact evaluation (AE) this year. AE has become a common practice in the systems and architecture community (OSDI, PLDI, PACT, ISCA, MICRO, MLSys, HPCA, ASPLOS). We invite the authors of accepted PACT 2024 papers to submit their artifacts to be assessed based on the ACM Artifact Review and Badging policy. Note that this submission is voluntary and will not influence the final decision regarding the papers. 
 
-PACT 2024’s artifact evaluation process will follow the [guidelines for artifact evaluation set by ML Commons](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/submission.md).
+PACT 2025’s artifact evaluation process will follow the [guidelines for artifact evaluation set by ML Commons](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/submission.md).
 
+More details of artifact submission will be posted shortly. 
+
+<!--
 **Artifact submissions will be due by July 8, 2024**.
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/checklist.md) and submit it to the [single-blind AE process](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/reviewing.md). Reviewers will then collaborate with the authors to evaluate their artifacts and assign the following [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
@@ -60,3 +63,4 @@ If you have questions or suggestions, do not hesitate to get in touch with the t
 ##  Preparing your camera-ready paper
 
 If you have successfully passed AE with at least one reproducibility badge, you will need to add up to 2 pages of your artifact appendix to your camera ready paper while removing all unnecessary or confidential information. This will help readers better understand what was evaluated and how.
+-->
