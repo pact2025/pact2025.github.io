@@ -9,41 +9,44 @@ show_sidebar: true
 # Organization
 
 **General Chairs:**<br>
-[Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), University of California, Riverside <br>
-[Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/), University of California, Riverside
+[Brian Demsky](bdemsky@uci.edu), University of California, Irvine  
 
 **Program Chairs:**<br>
-[Stefanos Kaxiras](https://pages.cs.wisc.edu/~kaxiras/), Uppsala University <br>
-[Alexandra Jimborean](https://webs.um.es/alexandra.jimborean/miwiki/doku.php), University of Murcia
+[Bernhard Egger](bernhard@csap.snu.ac.kr), Seoul National University  
 
 **Workshop/Tutorial Chair**<br>
-[Hoda Naghibijouybari](https://sites.google.com/a/binghamton.edu/sites/system/errors/WebspaceNotFound?path=%2Fhoda%2F), Binghamton University
+[Ana Lucia Varbanescu](n.alachiotis@utwente.nl), University of Twente  
+[Nikolaos Alachiotis](a.l.varbanescu@utwente.nl), University of Twente
 
-**ACM Student Research Competition Chair:**<br>
-[Samira Ajorpaz](https://mirbaghercom.wordpress.com/), NCSU
+<!--
+**ACM Student Research Competition Chair:**<br>  
+[Samira Ajorpaz](https://mirbaghercom.wordpress.com/), NCSU  
+-->
 
 **Registration Chair:**<br>
-[Changhee Jung](https://www.cs.purdue.edu/homes/chjung/), Purdue University
+[Jianping Zeng](jpzeng92@gmail.com), Samsung  
 
+**Finance Chair:**<br>
+[Sang Woo Jun](swjun@uci.edu), University of California, Irvine
+
+<!-- 
 **Artifact Evaluation Chairs:**<br>
-
 [Biswa Panda](https://www.cse.iitb.ac.in/~biswa/), Indian Institute of Technology Bombay <br>
-[Bastian Hagedorn](https://bastianhagedorn.github.io), NVIDIA
+[Bastian Hagedorn](https://bastianhagedorn.github.io), NVIDIA  
+-->
 
-
+<!-- 
 **Publications Chair:**<br>
-[Jongouk Choi](https://jongouk-choi.github.io/jongouk/), UCF
+[Jongouk Choi](https://jongouk-choi.github.io/jongouk/), UCF  
+-->
 
 **Publicity Co-Chairs:**<br>
-- Americas: [Khaled Khasawneh](https://sites.google.com/view/knkhasawneh/khaled-n-khasawneh), George Mason University
-- Europe: [Ihsen Alouani](https://sites.google.com/view/ihsen-alouani), Queen's University Belfast
-
+- Americas: [Khaled Khasawneh](kkhasawn@gmu.edu), George Mason University  
+- Asia: [Rio Yokota](rioyokota@rio.scrc.iir.isct.ac.jp), Institute of Science Tokyo  
 
 **Web Chair:**<br>
-[Daniel Wong](https://www.danielwong.org/), University of California, Riverside
+[Daniel Wong](danwong@ucr.edu), University of California, Riverside
 
-**Webmaster:**<br>
-[Pedram Zaree](https://pedramzaree.github.io/), University of California, Riverside
 
 
 
