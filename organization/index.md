@@ -67,49 +67,7 @@ show_sidebar: true
 - [Mateo     Valero](https://www.bsc.es/mateo-valero), UPC/Barcelona Supercomputing Center, Spain
 
 ## Technical Program Committee
-- Ajeya Naithani, Ghent University
-- Andre Seznec, Inria
-- Christina Giannoula, University of Toronto
-- Christos Sakalis, SambaNova Systems
-- Daniel Sorin, Duke University
-- Davide Bertozzi, University of Manchester
-- Dimitris Gizopoulos, University of Athens
-- Esin Tureci, Princeton University
-- Eun Jung Park (EJ), Qualcomm
-- Fernando Magno Quintao Pereira, Federal University of Minas Gerais
-- Gabriel Rodríguez, Universidade da Coruña
-- George Tzimpragos, University of Michigan
-- Gianna Paulin, ETH
-- H Peter Hofstee, IBM Systems
-- J Nelson Amaral, University of Alberta
-- John Kim, KAIST
-- Julio Sahuquillo, Universitat Politècnica de València
-- Lieven Eeckhout, Ghent University
-- Louis-Noel Pouchet, Colorado State University
-- Magnus Själander, Norwegian University of Science and Technology
-- Mahmut Taylan Kandemir, Pennsylvania State University
-- Michael O'Boyle, University of Edinburgh
-- Nilay Vaish, Google
-- Pavlos Petoumenos, University of Manchester
-- Pedro Diniz, University of Porto
-- Pedro Petersen Moura Trancoso, Chalmers University of Technology
-- Pierre Michaud, Inria
-- Ravishankar Iyer, Intel Labs
-- Roger Moussalli, Two Sigma
-- Sam Ainsworth, University of Edinburgh
-- Steve Blackburn, Google and Australian National University
-- Swamit Tannu, University of Wisconsin, Madison
-- Thomas Chau, Neubla
-- Timothy M Jones, University of Cambridge
-- Tobias Grosser, University of Cambridge
-- Trevor E. Carlson, National University of Singapore
-- Vijay Nagarajan, University of Utah
-- Yaman Umuroglu, AMD
+- TBD
 
 ## External Review Committee
-- Chang Hyun Park, Uppsala University
-- Gokul Subramanian Ravi, University of Michigan
-- Jakub Szefer, Yale University
-- Juan Manuel Cebrian, University of Murcia
-- Manil Dev Gomony, Eindhoven University of Technology
-- Peter Munch, Uppsala
+- TBD
