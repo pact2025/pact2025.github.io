@@ -1,35 +1,6 @@
 # Student Research Competition
 
 <br>
-<!-- 
-## ACM SRC winners
-
-##### Graduate Student Category
-
-- **1st Place:** Nurlan Nazaraliyev <br> 
-Project Title: "LOSS: Lightweight-OS-Support for GPUs" <br> 
-University of California, Riverside <br> 
-
-- **2nd Place:** Ravan Nazaraliyev <br> 
-Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks" <br> 
-University of California, Riverside <br> 
-
-- **3rd Place:** Nika Mansouri Ghiasi <br> 
-Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems" <br> 
-ETH Zurich <br>
-
-
-##### Undergraduate Student Category
-
-- **1st Place:** Sophia Fu <br> 
-Project Title: "Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512" <br>
-Carnegie Mellon University <br> 
-
-- **2nd Place:** Ishita Mehta <br>
-Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy" <br>
-University of Colorado Boulder <br>
-
---> 
 
 ## About
 
