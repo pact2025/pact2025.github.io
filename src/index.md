@@ -48,20 +48,21 @@ Submit your extended abstract at: [https://pact25src.hotcrp.com/](https://pact25
 
 ## Important Dates
 TBD  
+
 <!--
 - **Abstract Registration Deadline:** August 15, 2024
 - **Abstract Submission Deadline:** August 18, 2024
 - **Author Notification:** August 31, 2024  
 -->
+
 ## Poster, Video, and Presentation Requirements
 
 
 ##### Poster Requirements
 
 - Organized and clear content
-- <!-- PDF submission by September 20, 2024 --> 
 - Print and bring your poster for presentation in-person
-
+<!-- -  PDF submission by September 20, 2024 --> 
 
 ##### Final Presentation Requirements
 
