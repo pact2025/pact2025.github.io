@@ -21,9 +21,9 @@
 title:       PACT 2025
 email:       danwong@ucr.edu # to be replaced by the web chair email
 description: >- # this means to ignore newlines until "baseurl:"
-  The 33rd International Conference on Parallel Architectures and Compilation Techniques (PACT) 2024
+  The 34th International Conference on Parallel Architectures and Compilation Techniques (PACT) 2025
 baseurl:     "" # the subpath of your site, e.g. /blog
-url:         "https://pact2024.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url:         "https://pact2025.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
