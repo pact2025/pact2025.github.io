@@ -1,163 +1,128 @@
+**Call for Papers**
 
-# Call for Papers
+PACT 2025 will be held in Irvine, California, USA, from November 3-6, 2025.
 
-PACT 2025 will be held in **Irvine, California, USA**, during {{ site.data.vars.conf_dates }}.
+**Submissions Due:** April 18, 2025  
+**Submission Site:** [https://pact25.hotcrp.com](https://pact25.hotcrp.com)
 
-**Submissions due: April 1, 2024**
+---
 
-### *PACT 2025 includes a New Call for Tools and Practical Experience Papers*
+### **Scope**
 
-## Scope
+The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference at the intersection of hardware and software, with a special emphasis on parallelism. PACT brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications to present and discuss their latest research results, tools, and practical experiences.
 
-The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference sitting at the intersection of hardware and software, with a special emphasis on parallelism. The PACT conference series brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications, to present and discuss their latest research results.
+PACT 2025 will be held as an in-person event in Irvine, California, USA. We encourage all authors of accepted papers to participate, and at least one author must attend the conference.
 
-PACT 2025 will be held as an in-person event in Irvine, California, USA. At least one of the authors of accepted papers will be required to attend the conference, and we encourage all the authors to participate.
+PACT seeks submissions in two categories:
+- **Research Papers**
+- **Tools and Practical Experience (TPE) Papers**
 
+### **Topics of Interest**
+PACT welcomes submissions on topics including, but not limited to:
+- Parallel architectures, including accelerators for AI and other domains
+- Compilers and tools for parallel architectures
+- Applications and experimental studies of parallel processing
+- Computational models for concurrent execution
+- Multicore, multithreaded, superscalar, and VLIW architectures
+- Compiler and hardware support for reducing memory latencies
+- Support for correctness in hardware and software
+- Reconfigurable parallel computing
+- Dynamic translation and optimization
+- I/O issues in parallel computing and their application impact
+- Parallel programming languages, algorithms, and applications
+- Middleware and runtime system support for parallel computing
+- Application-specific parallel systems
+- Distributed computing architectures and systems
+- Heterogeneous systems leveraging various accelerators
+- In-core and in-chip accelerators and their optimization
+- Applications of machine learning to parallel computing
+- Large-scale data processing, including in-memory computing accelerators
+- Insights from modern parallel applications for architecture and compiler design
 
-Specific topics of interest include (but are not limited to):
+---
 
-* Parallel architectures, including accelerator architectures for AI or other domains
-* Compilers and tools for parallel architectures (as above)
-* Applications and experimental systems studies of parallel processing
-* Computational models for concurrent execution
-* Multicore, multithreaded, superscalar, and VLIW architectures
-* Compiler and hardware support for hiding memory latencies
-* Support for correctness in hardware and software
-* Reconfigurable parallel computing
-* Dynamic translation and optimization
-* I/O issues in parallel computing and their relation to applications
-* Parallel programming languages, algorithms, and applications
-* Middleware and run time system support for parallel computing
-* Application-specific parallel systems
-* Distributed computing architectures and systems
-* Heterogeneous systems using various types of accelerators
-* In-core and in-chip accelerators and their exploitation
-* Applications of machine learning to parallel computing
-* Large scale data processing, including computing in memory accelerators
-* Insights for the design of parallel architectures and compilers from modern parallel applications
+### **Research Papers**
+Research papers will be evaluated by the PACT Program Committee based on:
+- **Relevance:** The paper should align with PACT’s topics of interest.
+- **Novelty/Originality:** The work should present new ideas or offer fresh perspectives.
+- **Significance:** The research should address an important problem and have the potential to influence future work.
+- **Results:** The claims should be well-supported by clear and validated results.
+- **Comparison to Prior Work:** The paper should properly discuss existing literature, highlighting similarities, differences, and improvements.
 
-  PACT  for  Quantum  and  Neurmorphic
+### **Tools and Practical Experience (TPE) Papers**
+TPE papers focus on practical applications, industry challenges, and experience reports. A TPE paper must clearly explain its functionality, summarize practical experience with realistic case studies, and describe any supporting artifacts. The title of a TPE paper must include the prefix **"TPE:"**. TPE papers follow the same submission guidelines and are reviewed by the same Program Committee as research papers.
 
-* Neuromorphic computing both as an application for and a tool applied to architectures and compilers
-* Quantum computing architectures and compilers.
+TPE papers will be evaluated based on:
+- **Originality:** They should present PACT-related technologies applied to real-world problems.
+- **Usability:** The tool or software should have broad applicability and aid PACT-related research.
+- **Documentation:** The tool/software should be well-documented on a public website.
+- **Benchmark Repository:** A benchmark suite should be provided for testing.
+- **Availability:** Preference is given to tools/software that are freely available, though industry/commercial tools may be considered with justification.
+- **Foundations:** The paper should relate to PACT’s principles, though extensive theoretical discussion is not required.
 
+---
 
-In addition to the regular research papers, PACT 2025 has a special category of papers called 
-“tools and practical experience” (TPE). Such papers are subject to the same page length 
-guidelines and will be reviewed by the same Program Committee.
-TPE papers focus on applicability (such as traditional methods employed in emerging fields), 
-exposing challenges and experiences the industry is facing as an opportunity to steer the 
-research. A TPE paper must clearly explain its functionality, provide a summary about the 
-practice experience with realistic case studies, and describe all the supporting artifacts available 
-(if relevant). The selection criteria are:
+### **Submission Guidelines**
+Submissions are due **April 18, 2025**, via the [conference submission site](https://pact25.hotcrp.com). Ensure that your submission meets the following requirements:
+- **Format:** Papers are limited to **10 pages** (excluding references) in **ACM 8.5” x 11” format**, double-column, 9pt font (e.g., using the `sigconf` LaTeX template). The text box must not exceed **7.15” x 9”** (18.2cm x 22.9cm). Templates are available on the [ACM Author Gateway](https://authors.acm.org/proceedings/production-information/taps-production-workflow).
+- **Abstract:** Papers must include an abstract of **under 300 words**.
+- **Originality:** Submissions must contain original material not previously published or under review elsewhere. Material presented at workshops without copyrighted proceedings may be submitted.
+- **TPE Papers:** Must be prefixed with **"TPE:"** in the title.
+- **Double-Blind Review:** The review process is **double-blind** to prevent bias. Submissions must not include author names, affiliations, or self-references that reveal authorship. Prior work by the authors must be cited in the third person.
+- **Legibility:** Figures and graphs must be readable without magnification.
+- **Submission Format:** Papers must be submitted in **PDF format**.
+- **Supplementary Material:** A single **anonymized** PDF may be uploaded with additional proofs, results, or datasets. Reviewers are not required to consult supplementary material.
 
-* Originality: Papers should present PACT-related technologies applied to real-world 
-problems with scope or characteristics that set them apart from previous solutions.
-* Usability: The presented Tools or compilers should have broad usage or applicability. 
-They are expected to assist in PACT-related research, or could be extended to 
-investigate or demonstrate new technologies. If significant components are not yet 
-implemented, the paper will not be considered.
-* Documentation: The tool or compiler should be presented on a web-site giving 
-documentation and further information about the tool.
-* Benchmark Repository: A suite of benchmarks for testing should be provided.
-* Availability: Preferences will be given to tools or compilers that are freely available (at 
-either the source or binary level). Exceptions may be made for industry and commercial 
-tools that cannot be made publicly available for business reasons.
-* Foundations: Papers should incorporate the principles underpinning Parallel 
-Architectures and Compilation Techniques (PACT). However, a thorough discussion of 
-theoretical foundations is not required; a summary of such should suffice.
+**Posters:**
+- Poster submissions must follow the same formatting guidelines but are limited to **2 pages**.
+- Papers not accepted for full presentation will automatically be considered for posters unless authors opt out in their abstract submission.
+- Two-page poster summaries will be included in the conference proceedings.
 
-## Submitting your work
+---
 
-Paper submissions are due **April 1, 2024** by posting on the conference [submission site](https://pact24.hotcrp.com/). Please make sure that your paper satisfies all the following requirements before being submitted. Submissions not adhering to these submission guidelines will be rejected by the submission system and/or subject to an administrative rejection.
+### **Conflicts of Interest**
+Authors must declare **all** conflicts of interest with PC members and external reviewers at submission time. Papers with undeclared or false conflicts may be rejected. Conflicts follow ACM’s [Conflict of Interest Policy](https://www.acm.org/publications/policies/conflict-of-interest).
 
+---
 
+### **Artifact Evaluation**
+Authors of accepted papers are **encouraged** to submit their artifacts for evaluation. The Artifact Evaluation Committee assesses availability, functionality, and reproducibility. Successful artifacts will receive a **seal of approval** in the published paper. Authors can include a **2-page Artifact Appendix** in the final paper.
 
+We encourage authors to use open-source frameworks such as [Docker](https://www.docker.com/), [OCCAM](https://occam.cs.pitt.edu/), [reprozip](https://www.reprozip.org/), [CodeOcean](https://codeocean.com/), and [Collective Knowledge](https://cknowledge.io/docs/) to improve artifact portability and reproducibility.
 
+---
 
+### **Camera-Ready Instructions**
+- **Page Limit:** The final version must not exceed **11 pages**, with an **optional 2-page Artifact Appendix**.
+- **Extra Pages:** Up to **2 additional pages** may be purchased for **$200 per page**.
 
-* Mark TPE papers clearly by preceding their title with “TPE: ” both in the submission site and in the submitted pdf
-* The paper must have an abstract under 300 words.
-* The paper must be original material that has not been previously published in another conference or journal, nor is currently
-under review by another conference or journal. You may submit material presented previously at a workshop without copyrighted proceedings.
-* The submission is limited to ten (10) pages in the ACM 8.5" x 11" format (US letter size paper), double column (e.g., using the sigconf LaTeX template style), 
-using 9pt font, with no more than 7 lines per inch. This page limit applies to all content NOT 
-INCLUDING references, and there is no page limit for references. Your paper must print 
-satisfactorily on both Letter paper (8.5"x11") and A4 paper (8.27"x11.69"). The box containing the text should be no larger than 7.15"x9" (18.2cm x 22.9cm). Templates are available on the [ACM Author Gateway](https://authors.acm.org/proceedings/production-information/taps-production-workflow).
-* Paper submission is double-blind to reduce reviewer bias against authors or institutions. Thus, 
-the submissions cannot include author names, institutions or hints based on references to prior 
-work. If authors are extending their own work, they need to reference and discuss the past work 
-in third person, as if they were extending someone else’s research. We realize that for some 
-papers it will still reveal authorship, but as long as an effort was made to follow these guidelines, 
-the submission will not be penalized.
-* Anonymized supplementary material may be provided in a single PDF file uploaded at paper 
-submission time, containing material that supports the content of the paper, such as proofs, 
-additional experimental results, data sets, etc. Reviewers are not required to read the 
-supplementary material but may choose to do so.
-* Please make sure that the labels on your graphs are readable without the aid of a magnifying 
-glass.
-* The paper must be submitted in PDF. We cannot accept any other format, and we must be able 
-to print the document just as we receive it. We suggest that you use only the four widely used 
-printer fonts: Times, Helvetica, Courier and Symbol.
+---
 
-
-
-Poster submissions must conform to the same format restrictions, but may not exceed 2 pages in length. Paper submissions that are not accepted for regular presentations will automatically be considered for posters; authors who do not want their paper considered for the poster session should indicate this in their abstract submission. Two-page summaries of accepted posters will be included in the conference proceedings.
-
-Please submit your work via the conference [submission site](https://pact24.hotcrp.com/).
-
-
-## Conflicts of interest
-
-Authors must identify any conflicts-of-interest with PC members and external members of the community. We ask **all** authors of a submitted paper to register their conflicts at the submission site. If a paper is found to have an undeclared conflict that causes a problem OR if a paper is found to declare false conflicts in order to abuse or game the review system, the paper may be rejected. Conflicts of interests are defined according to ACM’s [conflict of interest policy](https://www.acm.org/publications/policies/conflict-of-interest).
+### **Important Dates**
+- **Abstract Submission Deadline:** April 11, 2025
+- **Paper Submission Deadline:** April 18, 2025
+- **Rebuttal Period:** June 24-27, 2025
+- **Author Notification:** July 28, 2025
+- **Artifact Submission:** August 8, 2025
+- **Camera-Ready Deadline:** September 15, 2025
 
 
+All deadlines are **firm at midnight anywhere on Earth (AoE)**.
 
-## Artifact evaluation
+---
 
-Authors of accepted PACT 2025 papers are encouraged to formally submit their supporting materials for Artifact Evaluation. The Artifact Evaluation process is run by a separate committee whose task is to assess the availability, functionality, and reproducibility of the work and experimental results described in the paper. Submission is voluntary. We strongly encourage authors to consider submitting artifacts for their work, including simulators for new architectural designs and extensions.
+### **Code of Conduct**
+All participants must adhere to:
+- [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
+- IEEE [Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html) and [Code of Conduct](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf)
+- [ACM Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment)
 
-We encourage authors to prepare their artifacts for submission and make them more portable, reusable and customizable using open-source frameworks including [Docker](https://www.docker.com/), [OCCAM](https://occam.cs.pitt.edu/), [reprozip](https://www.reprozip.org/), [CodeOcean](https://codeocean.com/) and [CK](https://cknowledge.io/docs/).
+---
 
-Papers that successfully go through the Artifact Evaluation process will receive a seal of approval printed on the papers themselves. Authors of such papers will have an option to include their Artifact Appendix to the final paper (up to 2 pages). Authors are also encouraged to make their artifacts publicly available.
+### **Publication Policies**
+PACT is supported by ACM and IEE. Accepted papers will be published in both the ACM Digital Library and IEEE Xplore. By submitting a paper, authors agree to comply with all [ACM](https://www.acm.org/publications/policies) and [IEEE publication policies](https://ieeexplore.ieee.org/Xplorehelp/author-center/publishing-policies).
 
-## Camera ready instructions
+All authors must obtain an [ORCID ID](https://orcid.org/) to complete the publication process. ORCID improves author discoverability, proper attribution, and name normalization.
 
-#### Page limit
-The final version of the accepted paper should not exceed 11 pages, with the provision of an additional 2 pages specifically allocated for the artifact appendix, if applicable. It is important to note that these 2 extra pages should be used exclusively for the artifact appendix and nothing else. The page limit applies to all content except the references section.
-Additionally, authors have the option to purchase up to 2 extra pages at a rate of $200 USD per page. Payment for these additional pages should be made during the conference registration process through the conference registration system
-
-#### Copyright Forms
-Contact authors will receive an email from the ACM e-rights system. Please be on the lookout for this email and make sure you respond (fill the associated form) within 24 hours from getting it.
-
-#### Uploading
-Contact authors will receive an email from the ACM e-rights system once they submit the copyright. Please upload the camera-ready version of your paper through TAPS. Note that the camera-ready paper should follow the template available on the ACM Author Gateway.
-
-
-## Key dates
-
-* Abstract submission deadline: March 25, 2024
-* Paper submission deadline: April 1, 2024
-* Rebuttal  period:: Jun 3-9, 2024
-* Author notification: Jul 1, 2024
-* Artifact submission: Jul 8, 2024
-* Camera ready papers: Aug 24, 2024
-
-All deadlines are firm at midnight anywhere on earth (AoE).
-
-
-## Code of Conduct
-
-All individuals participating in PACT or involved with its organization are expected to follow the
-
-* [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics);
-* [The IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html) and [Code of Conduct](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf); and the
-* [Policy Against Harassment at ACM activities](https://www.acm.org/about-acm/policy-against-harassment).
-
-
-## Publication policies
-
-PACT is supported by both ACM and IEEE and articles accepted for publication are available on both the ACM digital library and IEEE Xplore. By submitting your article to an PACT, you are hereby acknowledging that you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies), including ACM’s new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects), and the [IEEE Publication Policies](https://ieeexplore.ieee.org/Xplorehelp/author-center/publishing-policies). Alleged violations of these policies will be investigated by officers of ACM or IEEE and may result in a full retraction of your paper, in addition to other potential penalties, as per their policies.
-
-Please ensure that you and your co-authors [obtain an ORCID ID](https://orcid.org/register), so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a [commitment to collect ORCID IDs](https://authors.acm.org/author-resources/orcid-faqs) from all of our published authors. The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
+We look forward to your submissions!
 
