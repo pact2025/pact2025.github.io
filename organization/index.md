@@ -9,14 +9,14 @@ show_sidebar: true
 # Organization
 
 **General Chairs:**<br>
-[Brian Demsky](bdemsky@uci.edu), University of California, Irvine  
+[Brian Demsky](mailto:bdemsky@uci.edu), University of California, Irvine  
 
 **Program Chairs:**<br>
-[Bernhard Egger](bernhard@csap.snu.ac.kr), Seoul National University  
+[Bernhard Egger](mailto:bernhard@csap.snu.ac.kr), Seoul National University  
 
 **Workshop/Tutorial Chair**<br>
-[Ana Lucia Varbanescu](n.alachiotis@utwente.nl), University of Twente  
-[Nikolaos Alachiotis](a.l.varbanescu@utwente.nl), University of Twente
+[Ana Lucia Varbanescu](mailto:n.alachiotis@utwente.nl), University of Twente  
+[Nikolaos Alachiotis](mailto:a.l.varbanescu@utwente.nl), University of Twente
 
 <!--
 **ACM Student Research Competition Chair:**<br>  
@@ -24,10 +24,10 @@ show_sidebar: true
 -->
 
 **Registration Chair:**<br>
-[Jianping Zeng](jpzeng92@gmail.com), Samsung  
+[Jianping Zeng](mailto:jpzeng92@gmail.com), Samsung  
 
 **Finance Chair:**<br>
-[Sang Woo Jun](swjun@uci.edu), University of California, Irvine
+[Sang Woo Jun](mailto:swjun@uci.edu), University of California, Irvine
 
 <!-- 
 **Artifact Evaluation Chairs:**<br>
@@ -41,11 +41,11 @@ show_sidebar: true
 -->
 
 **Publicity Co-Chairs:**<br>
-- Americas: [Khaled Khasawneh](kkhasawn@gmu.edu), George Mason University  
-- Asia: [Rio Yokota](rioyokota@rio.scrc.iir.isct.ac.jp), Institute of Science Tokyo  
+- Americas: [Khaled Khasawneh](mailto:kkhasawn@gmu.edu), George Mason University  
+- Asia: [Rio Yokota](mailto:rioyokota@rio.scrc.iir.isct.ac.jp), Institute of Science Tokyo  
 
 **Web Chair:**<br>
-[Daniel Wong](danwong@ucr.edu), University of California, Riverside
+[Daniel Wong](mailto:danwong@ucr.edu), University of California, Riverside
 
 
 
