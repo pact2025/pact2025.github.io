@@ -19,7 +19,7 @@ show_sidebar: true
 [Nikolaos Alachiotis](mailto:a.l.varbanescu@utwente.nl), University of Twente
 
 
-**ACM Student Research Competition Chair:**<br>  
+**ACM Student Research Competition Chair:**<br>
 [Ben Feinberg](mailto:bfeinbe@sandia.gov), Sandia  
 
 
