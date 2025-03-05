@@ -18,10 +18,10 @@ show_sidebar: true
 [Ana Lucia Varbanescu](mailto:n.alachiotis@utwente.nl), University of Twente  
 [Nikolaos Alachiotis](mailto:a.l.varbanescu@utwente.nl), University of Twente
 
-<!--
+
 **ACM Student Research Competition Chair:**<br>  
-[Samira Ajorpaz](https://mirbaghercom.wordpress.com/), NCSU  
--->
+[Ben Feinberg](mailto:bfeinbe@sandia.gov), Sandia  
+
 
 **Registration Chair:**<br>
 [Jianping Zeng](mailto:jpzeng92@gmail.com), Samsung  
