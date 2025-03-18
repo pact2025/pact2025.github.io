@@ -27,7 +27,7 @@ show_sidebar: true
 [Jianping Zeng](mailto:jpzeng92@gmail.com), Samsung  
 
 **Finance Chair:**<br>
-[Sang Woo Jun](mailto:swjun@uci.edu), University of California, Irvine
+[Jiajia Li](mailto:jiajia.li@ncsu.edu), North Carolina State University
 
 <!-- 
 **Artifact Evaluation Chairs:**<br>
