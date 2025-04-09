@@ -2,8 +2,8 @@
 
 PACT 2025 will be held in Irvine, California, USA, from November 3-6, 2025.
 
-**Abstracts Due:** April 18, 2025
-**Papers Due:** April 25, 2025
+**Abstracts Due:** April 18, 2025  
+**Papers Due:** April 25, 2025  
 **Submission Site:** [https://pact25.hotcrp.com](https://pact25.hotcrp.com)
 
 
