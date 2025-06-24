@@ -101,8 +101,8 @@ We encourage authors to use open-source frameworks such as [Docker](https://www.
 ### **Important Dates**
 - **Abstract Submission Deadline:** April 18, 2025 (extended)
 - **Paper Submission Deadline:** April 25, 2025 (extended)
-- **Rebuttal Period:** June 24-27, 2025
-- **Author Notification:** July 28, 2025
+- **Rebuttal Period:** June 24-30, 2025
+- **Author Notification:** Beginning of August 2025
 - **Artifact Submission:** August 8, 2025
 - **Camera-Ready Deadline:** September 15, 2025
 
