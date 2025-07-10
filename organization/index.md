@@ -31,7 +31,6 @@ show_sidebar: true
 
 
 **Artifact Evaluation Chairs:**<br>
- 
 [Huimin Cui](mailto:cuihm@ict.ac.cn), ICT, CAS <br>
 [Gabriel Rodríguez Álvarez](mailto:gabriel.rodriguez@udc.es), Universidade da Coruña   
 
