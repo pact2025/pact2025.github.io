@@ -29,11 +29,12 @@ show_sidebar: true
 **Finance Chair:**<br>
 [Jiajia Li](mailto:jiajia.li@ncsu.edu), North Carolina State University
 
-<!-- 
+
 **Artifact Evaluation Chairs:**<br>
-[Biswa Panda](https://www.cse.iitb.ac.in/~biswa/), Indian Institute of Technology Bombay <br>
-[Bastian Hagedorn](https://bastianhagedorn.github.io), NVIDIA  
--->
+ 
+[Huimin Cui](mailto:cuihm@ict.ac.cn), ICT, CAS <br>
+[Gabriel Rodríguez Álvarez](mailto:gabriel.rodriguez@udc.es), Universidade da Coruña   
+
 
 <!-- 
 **Publications Chair:**<br>
