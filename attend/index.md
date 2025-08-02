@@ -63,7 +63,8 @@ See [pricing via our registration vendor](https://web.cvent.com/event/ba0e3914-2
 John Wayne Airport (SNA), Long Beach (LGB), and Los Angeles International Airport (LAX) are the three nearest airports to Irvine in order, with direct flights from many major cities in US and easy connection flights from many cities in other areas such as Europe, South America, Australia and Asia.  Note that SNA is by far the closest airport.
 
 ## Transport from SNA to Irvine
-The best transport option from SNA to Irvine is to take a Taxi or Uber. [https://www.supershuttle.com/](https://www.supershuttle.com/)
+The best transport option from SNA to Irvine is to take a Taxi or Uber. <br>
+[https://www.supershuttle.com/](https://www.supershuttle.com/)
 
 ## Transport from LGB to Irvine
 The most economical way to travel from LGB to Irvine would be to take the shared ride vans (such as Super Shuttle) that head from the airport to different places in Irvine. Rental cars and Taxi/Uber are also available at the arrival terminals.
