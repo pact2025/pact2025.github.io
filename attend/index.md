@@ -8,15 +8,6 @@ show_sidebar: true
 
 # Attending PACT 2025
 
-
-What's on this page
-
-* [Venue](#venue)
-* [Registration](#registration)
-
-
-<br>
-
 ## Venue
 
 PACT 2025 will be held at the <br>
