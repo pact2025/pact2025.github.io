@@ -16,7 +16,8 @@ PACT 2025 will conduct artifact evaluation (AE) this year. AE has become a commo
 
 PACT 2025’s artifact evaluation process will follow the [guidelines for artifact evaluation set by ML Commons](https://github.com/ctuning/artifact-evaluation/blob/master/docs/submission.md).
 
-**Artifact submissions will be due by August 8th, 2025**.
+**Artifact registrations are due by August 8th, 2025.**  
+**Full artifact submissions are due by August 11th, 2025.**
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/ctuning/artifact-evaluation/blob/master/docs/checklist.md) and submit it to the [single-blind AE process](https://github.com/ctuning/artifact-evaluation/blob/master/docs/reviewing.md). Reviewers will then collaborate with the authors to evaluate their artifacts and assign the following [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
 
