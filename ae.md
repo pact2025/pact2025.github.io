@@ -16,7 +16,8 @@ PACT 2025 will conduct artifact evaluation (AE) this year. AE has become a commo
 
 PACT 2025’s artifact evaluation process will follow the [guidelines for artifact evaluation set by ML Commons](https://github.com/ctuning/artifact-evaluation/blob/master/docs/submission.md).
 
-**Artifact submissions will be due by August 8th, 2025**.
+**Artifact registrations are due by August 8th, 2025.**  
+**Full artifact submissions are due by August 11th, 2025.**
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/ctuning/artifact-evaluation/blob/master/docs/checklist.md) and submit it to the [single-blind AE process](https://github.com/ctuning/artifact-evaluation/blob/master/docs/reviewing.md). Reviewers will then collaborate with the authors to evaluate their artifacts and assign the following [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
 
@@ -40,7 +41,7 @@ Feel free to reuse [portable CM scripts](https://github.com/mlcommons/ck/tree/ma
 
 Most of the time, the authors make their artifacts available to the evaluators via GitHub, GitLab, BitBucket or private repositories. It allows the authors to quickly fix encountered issues during evaluation before submitting the final version to archival repositories.
 
-We **strongly recommend** the use of [Docker](https://www.docker.com/), [Singularity](https://docs.sylabs.io/guides/3.5/user-guide/introduction.html), or other containers or VM images whenever possible. If not possible, we encourage authors to include pre-built binaries for all their code, so that reviewers can start with little effort; together with the source and build scripts that generate those binaries to guarantee maximum transparency. Providing pre-built VMs or containers is preferable to providing scripts (e.g., Docker or Vagrant configurations) that build the VM, since this alleviates reliance on external dependencies.
+We **strongly recommend** the use of [Docker](https://www.docker.com/), [Singularity](https://docs.sylabs.io/guides/3.5/user-guide/introduction.html), or other containers or VM images whenever possible. If not possible, we encourage authors to include pre-built binaries for all their code, so that reviewers can start with little effort; together with the source and build scripts that generate those binaries to guarantee maximum transparency. Providing pre-built VMs or containers is preferable to providing scripts (e.g., Docker or Vagrant configurations) that build the VM, since this alleviates reliance on external dependencies. If you are unfamiliar with the process of preparing artifacts and artifact evaluation, [Preparing Reproducible Scientific Artifacts using Docker](https://arxiv.org/abs/2308.14122) may be a good introductory read.
 
 Other acceptable methods include:
 
