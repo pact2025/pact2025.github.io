@@ -18,7 +18,22 @@ Irvine, California 92697-7700 USA <br>
 Phone number: +1 949-824-2683 <br>
 
 ## Hotels
-Hotels with conference room blocks will be posted shortly.
+
+### Irvine Courtyard by Marriott
+2701 Main Street <br>
+Irvine, CA 92614 <br> <br>
+Guests should book by **Thursday, October 2, 2025** to receive the group rate.  After this date, availability and rates are not guaranteed. <br>
+Book your group rate [at this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1754428513840&key=GRP&app=resvlink) <br>
+Or call 1-844-203-0884 and reference the group name Rate Code=UPCC  <br>
+
+### Irvine Marriott Hotel
+18000 Von Karman Ave <br> 
+Irvine, CA 92612 <br> <br>
+Guests should book by **Friday, October 3, 2025** to receive the group rate [at this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1754496308863&key=GRP&app=resvlink) <br>
+Or call the Reservations Line directly at (800) 228-9290 <br>
+
+
+
 
 ## Conference Registration
 
