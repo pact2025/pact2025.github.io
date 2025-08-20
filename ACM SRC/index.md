@@ -65,16 +65,14 @@ Submit your work using the specified format:
 - Limit to 2 pages, excluding references.
 - Ensure anonymity in the PDF (double-blind submission).
 
-<!--
+
 Submit your extended abstract at: [https://pact25src.hotcrp.com/](https://pact25src.hotcrp.com/)
--->
+
 
 ## Important Dates
-TBD
-<!--
-- **Abstract Submission Deadline:** July 31, 2024
-- **Author Notification:** August 31, 2024
--->
+- **Abstract Submission Deadline:** September 12, 2025 AoE (UTC-12)
+- **Author Notification:** September 21, 2025
+
 ## Poster, Video, and Presentation Requirements
 
 
