@@ -1,11 +1,26 @@
 ---
-title:        Call for Workshops/Tutorials
-description:  Call for PACT 2025 Workshops/Tutorials
+title:        Tutorials
+description:  PACT 2025 Tutorials
 id:           workshops
 layout:       page_sidebar
 show_sidebar: true
 ---
 
+# Tutorials
+
+## CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems
+
+Organizers: Serhan Gener, Sahil Hassan, Ali Akoglu (Department of Electrical and Computer Engineering, University of Arizona)
+
+Schedule (tentative): November 3rd morning
+
+## SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler
+
+Organizers: Nicolas Bohm Agostini (PNNL), Vito Giovanni Castellana (PNNL), Fabrizio Ferrandi (Politecnico di Milano), Giovanni Gozzi (Politecnico di Milano), Ankur Limaye (PNNL), Antonino Tumeo (PNNL)
+
+Schedule (tentative): November 3rd afternoon
+
+<!-- 
 # Call for Workshops/Tutorials
 
 We are soliciting proposals for workshops and tutorials within [the general scope of PACT](../submit). Members of the community are encouraged to submit proposals for workshops and tutorials that bring together researchers and practitioners to share their tools, technologies, latest results and to discuss work in progress and new directions. Topics on distributed system innovations leveraging new device and packaging innovations, trends in heterogeneous computing based on domain specific accelerators, compilation/system-management for such systems, and addressing emerging applications domains, are encouraged.
@@ -16,6 +31,10 @@ Those interested in organizing a workshop or tutorial are invited to contact the
 * Submission deadline for workshops and tutorial proposals: June 10, 2025.  
 * Notification: within 14 days from submission (not later than June 24th, 2025).  
 * Workshop/Tutorials to be held on November 3, 2025 (full day).   
+
+-->
+
+<!-- 
 
 ## Proposal Submission
 Proposals should be submitted in a single PDF file (ideally not exceeding 3 pages), via email to Ana-Lucia Varbanescu [a.l.varbanescu@utwente.nl](a.l.varbanescu@utwente.nl) and/or Nikolaos Alachiotis [n.alachiotis@utwente.nl](n.alachiotis@utwente.nl). Proposals should include the following information: 
@@ -43,43 +62,7 @@ Proposals should be submitted in a single PDF file (ideally not exceeding 3 page
 * Expected number of participants and audience mix (students, staff, professionals, etc.)
 * Information on editions of the tutorial, where applicable - please include statistics on the number of attendees and/or any additional feedback information you may have received. 
 
-
-
-<!-- 
-
-We are soliciting proposals for workshops and tutorials within [the general scope of PACT](../submit). Members of the community are encouraged to submit proposals for workshops and tutorials that bring together researchers and practitioners to share their tools, technologies, latest results and to discuss work in progress and new directions. Topics on distributed system innovations leveraging new device and packaging innovations, trends in heterogeneous computing based on domain specific accelerators, compilation/system-management for such systems, and addressing emerging applications domains, are encouraged.  
-
-
-Those interested in organizing a workshop or tutorial are invited to contact the Workshops and Tutorials Chair Hoda Naghibijouybari, [hnaghibi@qti.qualcomm.com](hnaghibi@qti.qualcomm.com). We will be doing rolling acceptances and encourage potential organizers to contact us as soon as possible.
 -->
 
-<!-- 
-## Important Dates
-*	Submission deadline for workshops: July 3, 2024.
-*	Submission deadline for tutorials: August 8, 2024.
-*	Workshop/Tutorials to be held on October 13, 2024 (full day) and October 16, 2024 (afternoon).
 
-## Proposal Submission
-Proposals should be submitted to Hoda Naghibijouybari, [hnaghibi@qti.qualcomm.com](hnaghibi@qti.qualcomm.com), and include the following information in a PDF file (2-3 pages):
-
-**Workshop**
-*	Title, scope, format and the main topics of the workshop
-*	Invited or keynote speakers (if any)
-*	Panel discussion (if any)
-*	Organizers' bio and affiliation, and a tentative list of PC members
-*	Duration (half day / full day)
-*	Expected and maximum number of participants
-*	Information on past workshops on the same topic with statistics on the number of attendees/submissions
-
-**Tutorial**
-*	Title and abstract of the tutorial
-*	An outline of tutorial content and objectives
-*	Prerequisite knowledge
-*	Special requirements (if any)
-*	Organizers' bio and affiliation
-* Duration (half day / full day)
-*	Expected and maximum number of participants
-*	Information on past workshops on the same topic with statistics on the number of attendees/submissions
-
--->
 
