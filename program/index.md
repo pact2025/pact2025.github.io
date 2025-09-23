@@ -22,4 +22,4 @@ show_sidebar: true
     <strong>SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler</strong><br>
     <em>Nicolas Bohm Agostini (PNNL), Vito Giovanni Castellana (PNNL), Fabrizio Ferrandi (Politecnico di Milano), Giovanni Gozzi (Politecnico di Milano), Ankur Limaye (PNNL), Antonino Tumeo (PNNL)</em>
   </li>
-</ul
+</ul>
