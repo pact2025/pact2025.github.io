@@ -104,7 +104,7 @@ We encourage authors to use open-source frameworks such as [Docker](https://www.
 - **Rebuttal Period:** June 24-30, 2025
 - **Author Notification:** Beginning of August 2025
 - **Artifact Submission:** August 8, 2025
-- **Camera-Ready Deadline:** October 6, 2025
+- **Camera-Ready Deadline:** October 17, 2025
 
 
 All deadlines are **firm at midnight anywhere on Earth (AoE)**.

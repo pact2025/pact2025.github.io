@@ -11,6 +11,10 @@ show_sidebar: true
 <br>
 {% include acceptedpapers.html %}
 
+<h1>Accepted Posters</h1>
+<br>
+{% include acceptedposters.html %}
+
 <h1>Accepted Tutorials</h1>
 <br>
 <ul>
