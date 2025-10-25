@@ -83,7 +83,6 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>08:15</td>
-		<td>Keynote: <a href="#keynote1">TITLE</a>, Jae W. Lee, Seoul National University.</td>
 		<td>
           Keynote: 
           <a href="#keynote1">
