@@ -6,24 +6,224 @@ layout:       page_sidebar
 show_sidebar: true
 ---
 
-<h1>Accepted Papers</h1>
-<i>Note: some papers are still undergoing a shepherding process</i><br/>
-<br>
-{% include acceptedpapers.html %}
+<!--
+ <a href="https://dl.acm.org/doi/proceedings/10.1145/3656019" class="btn btn-info btn-lg px-4">Proceedings</a> <br/>
+ -->
 
-<h1>Accepted Posters</h1>
-<br>
-{% include acceptedposters.html %}
+# Schedule
 
-<h1>Accepted Tutorials</h1>
+* [Monday, November 3, 2025](#wt-day1)
+* [Tuesday, November 4, 2025](#conf-day1)
+* [Wednesday, November 5, 2025](#conf-day2)
+* [Thursday, November 6, 2025](#conf-day3)
+
+
+
+### Monday, November 3 <a id="wt-day1"></a>
+
+<table class="table table-striped">
+	<thead>
+		<th>Time</th>
+		<th>What</th>
+	</thead>
+    <!--
+	<tr>
+		<td>07:15</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>
+    -->
+	<tr>
+		<td>09:00</td>
+		<td><b>Tutorial:</b>
+          <!--
+          <a href="TODO" target="_blank">
+          -->
+            TITLE
+          <!--
+          </a>
+          -->
+        </td>
+	</tr>
+	<tr>
+		<td>12:00</td>
+		<td>Lunch</td>
+	</tr>
+	<tr>
+		<td>13:30</td>
+		<td><b>Tutorial:</b>
+          <!--
+          <a href="TODO" target="_blank">
+          -->
+            TITLE
+          <!--
+          </a>
+          -->
+        </td>
+	</tr>
+</table>
+
+
+
+### Tuesday, November 4 <a id="conf-day1"></a>
+
+<table class="table table-striped">
+	<thead>
+		<th>Time</th>
+		<th>What</th>
+	</thead>
+    <!--
+	<tr>
+		<td>07:30</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>
+    -->
+	<tr>
+		<td>08:00</td>
+		<td>Opening</td>
+	</tr>
+	<tr>
+		<td>08:15</td>
+		<td>Keynote: <a href="#keynote1">TITLE</a>, Jae W. Lee, Seoul National University.</td>
+	</tr>
+	<tr>
+		<td>09:15</td>
+		<td>Break</td>
+	</tr>
+	<tr>
+		<td>09:45</td>
+
+{% include session1.html %}
+
+	</tr>
+	<tr>
+		<td>12:00</td>
+		<td>Lunch</td>
+	</tr>
+	<tr>
+		<td>13:15</td>
+
+{% include session2.html %}
+
+	</tr>
+	<tr>
+		<td>15:30</td>
+		<td>Break</td>
+	</tr>
+	<tr>
+		<td>16:00</td>
+
+{% include session3.html %}
+
+	</tr>
+	<tr>
+		<td>18:00</td>
+
+{% include session_posters.html %}
+
+	</tr>
+</table>
+
+
+
+### Wednesday, November 5 <a id="conf-day2"></a>
+
+<table class="table table-striped">
+	<thead>
+		<th>Time</th>
+		<th>What</th>
+	</thead>
+    <!--
+	<tr>
+		<td>07:30</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>
+    -->
+	<tr>
+		<td>08:15</td>
+		<td>Keynote: <a href="#keynote2">TITLE</a>, Rajiv Gupta, University of California, Riverside.</td>
+	</tr>
+	<tr>
+		<td>09:15</td>
+		<td>Break</td>
+	</tr>
+	<tr>
+		<td>09:45</td>
+
+{% include session4.html %}
+
+	</tr>
+	<tr>
+		<td>12:00</td>
+		<td>Lunch</td>
+	</tr>
+	<tr>
+		<td>13:15</td>
+
+{% include session5.html %}
+
+	</tr>
+	<tr>
+		<td>15:30</td>
+		<td>Break</td>
+	</tr>
+	<tr>
+		<td>16:00</td>
+
+{% include session6.html %}
+
+	</tr>
+	<tr>
+		<td>18:00</td>
+
+		<td>Business Meeting</td>
+
+	</tr>
+</table>
+
+
+
+### Thursday, November 6 <a id="conf-day3"></a>
+
+<table class="table table-striped">
+	<thead>
+		<th>Time</th>
+		<th>What</th>
+	</thead>
+    <!--
+	<tr>
+		<td>07:30</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>
+    -->
+	<tr>
+		<td>08:15</td>
+
+{% include session7.html %}
+
+	</tr>
+	<tr>
+		<td>09:30</td>
+		<td>Break</td>
+	</tr>
+	<tr>
+		<td>09:45</td>
+
+		<td>SRC Poster Presentations</td>
+
+	</tr>
+		<td>10:45</td>
+
+{% include session8.html %}
+
+	</tr>
+	<tr>
+		<td>12:00</td>
+
+		<td>Closing</td>
+
+	</tr>
+</table>
+
 <br>
-<ul>
-  <li>
-    <strong>CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems</strong><br>
-    <em>Serhan Gener, Sahil Hassan, Ali Akoglu (University of Arizona)</em>
-  </li>
-  <li>
-    <strong>SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler</strong><br>
-    <em>Nicolas Bohm Agostini (PNNL), Vito Giovanni Castellana (PNNL), Fabrizio Ferrandi (Politecnico di Milano), Giovanni Gozzi (Politecnico di Milano), Ankur Limaye (PNNL), Antonino Tumeo (PNNL)</em>
-  </li>
-</ul>
+{% include keynotes.html %}
+

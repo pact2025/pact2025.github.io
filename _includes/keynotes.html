@@ -1,29 +1,51 @@
-
+<br>
+<br>
 <h1>Keynotes</h1>
-TBD
-<!--
 
-<div><p style="float: left;"><img src="https://people.csail.mit.edu/saman/img/saman5.jpg" width="200px" border="1px">&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
-<h2>Monday, October 14, 2024: <a name="keynote1">Creating DSLs Made Easy</a>, <i>Saman Amarasinghe</i></h2>
-
-<p>Today, applications that require high-performance rely on libraries of hand-optimized kernels, with thousands available across various domains and architectures, while Domain-Specific Languages (DSLs) and their accompanying compilers remain relatively rare. A well-designed DSL can describe a much wider variety of programs within a given domain than even the most comprehensive library, while also unlocking powerful cross-function and global domain-specific optimizations that hand-optimized kernels cannot achieve. As Hennessy and Patterson emphasized in their Turing Award Lecture, the widespread adoption of Domain-Specific Accelerators depends on the availability of DSLs to fully harness these accelerators' high-performance capabilities. However, building high-performance DSLs is complex and time-consuming, often requiring compiler experts to devote years to development.</p>
-<p></p>In this talk, I will introduce BuildIt, a C++ framework designed for the rapid prototyping of high-performance DSLs. BuildIt uses a multi-stage programming approach to combine the flexibility of libraries with the performance and specialization of code generation. With BuildIt, domain experts can transform existing libraries into efficient, specialized compilers simply by modifying types of the variables. Moreover, it allows them to implement analyses and transformations without needing to write traditional compiler code. Currently, BuildIt supports code generation for multi-core CPUs and GPUs, with FPGA support coming soon. I will also showcase three DSLs created with BuildIt to highlight its power and ease of use: a reimplementation of the GraphIt graph computing language, the BREeze DSL for regular expressions, and NetBlocks, a DSL for custom network protocol development.</p>
-
-<h4>Bio:</h4>
-<p>Saman Amarasinghe is a Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL), where he leads the Commit compiler group. Under his leadership, the Commit group has developed a wide range of innovative programming languages and compilers, including StreamIt, StreamJIT, PetaBricks, Halide, TACO, Finch, Systec, GraphIt, Simit, MILK, Cimple, BioStream, NetBlocks, BREeze, CoLa, Shim, AskIt, and Seq. Additionally, the group has created compiler and runtime frameworks such as DynamoRIO, Helium, Tiramisu, Codon, BuildIt, and D2X as well as tools for vectorization like Superword Level Parallelism (SLP), goSLP, and VeGen. Saman’s team also developed Ithemal, a machine-learning-based performance predictor, Program Shepherding to protect programs from external attacks, the OpenTuner extendable autotuner, and the Kendo deterministic execution system. He was also co-leader of the Raw architecture project. Outside academia, Saman has co-founded several companies, including Determina, Lanka Internet Services Ltd., Venti Technologies, DataCebo, and Exaloop. He earned his BS in Electrical Engineering and Computer Science from Cornell University in 1988, and his MSEE and Ph.D. from Stanford University in 1990 and 1997, respectively. He is also a Fellow of the ACM.</p>
-
-<p></p>
-</div>  
-
-<div><p style="float: left;"><img src="https://www.ece.utoronto.ca/wp-content/uploads/2012/11/AndreasMoshovos45.jpg" width="200px" border="1px">&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<h2>Tuesday, October 15, 2024: <a name="keynote2">Every “Bit” Matters: Fostering Innovation in Deep Learning and Beyond</a>, <i>Andreas Moshovos</i></h2>
-
-<p>Computers are widely utilized across various disciplines. By developing increasingly more powerful and efficient machines, we can foster innovation and have a broad impact across many other communities. This talk overviews our own perspective and approach to enabling more efficient hardware/software stacks for deep learning. It will focus on our most recent efforts to enable more efficient training and inference through datatype learning and the optimized encoding of information during data transfers. Rather than guessing what good datatypes can be (the current state-of-the-art practice), our methods learn them. Further, rather than storing data as-is, our methods efficiently pack them using fewer bits without loss of information. We will also comment on what challenges lie ahead in this specific field.</p>
-<p>Moving beyond the specific work of our group, I will reflect on how dissemination and funding practices and perspectives impact academic innovation, our growth and wellbeing as researchers and practitioners, and their broader implications for future growth of our community. </p>
-
-<h4>Bio:</h4>
-
-<p>Andreas Moshovos along with his students has been answering the question “what is the best possible digital computation structure/software combination to solve problem X or to run application Y?” where “best” is a characteristic (or combination thereof) such as power, cost, complexity, etc. Much of his earlier work has been on high-performance processor and memory system design and it has influenced commercial designs. His more recent work has been on hardware/software acceleration methods for machine learning. He has been with the University of Toronto since 2000, but has also taught at Ecole Polytechnique Fédérale de Lausanne, Northwestern University, University of Athens, and the Hellenic Open University. He was the Scientific Director of the Canadian NSERC COHESA Research Network targeting machine learning optimizations, a consortium of 25+ research groups and industry partners. </p>
-</div>
--->
+<table border="0" style="border:none;">
+  <tr>
+    <td>
+      <h2>
+        Tuesday, November 4: 
+        AI's Memory Challenges
+      </h2>
+      <i>Jae W. Lee, Seoul National University</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Modern AI systems face a fundamental shift: memory and storage access, not computation, are becoming the primary performance bottleneck. Transformer architectures with O(L²) self-attention complexity struggle with bandwidth constraints, while agentic AI’s expanding context demands, with explicit token-space representation (KV cache), intensify capacity pressure. Memory reliability is also becoming a more critical concern, especially in the context of long-running training. This talk explores the full spectrum of challenges reshaping AI platforms and several avenues to turn these bottlenecks into breakthroughs. I’ll discuss recent solutions spanning hardware–software co-design, bandwidth-efficient algorithms, Processing-in-Memory/Near-Data Processing, and NAND flash’s evolution into specialized "AI memory" for KV caches and vector databases. This talk will explore how memory-centric design will define scalable AI infrastructure — and what opportunities lie ahead for systems researchers and architects.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p style="float: left;"><img src="images/jaewlee.jpg" width="200px" border="1px">&nbsp;&nbsp;&nbsp;&nbsp;</p>
+      Jae W. Lee is a Professor of Computer Science and Engineering and the Director of the AI Institute at Seoul National University (SNU). His research focuses on computer architecture, systems, parallel programming, and hardware security, with recent emphasis on memory-centric hardware/software co-design for AI. His work has been recognized with various awards and honors, including the IEEE Symposium on VLSI Circuits Most Frequently Cited Paper Award in 30 Years (2017), the ACM ASPLOS Most Influential Paper Award (2014), two Google Research Awards (2024, 2025), the ISCA Hall of Fame (2021), the ASPLOS Hall of Fame (2021), two IEEE Micro "Top Picks" selections (2020), the ACM ASPLOS "Highlights" Paper (2017), the HiPEAC Paper Award at ACM PLDI (2012), and the IEEE PACT Top Paper (2010). He has served as Program Co-Chair of the IEEE Micro "Top Picks" special issue (2023) and the ACM International Symposium on Memory Management (ISMM) (2024), General Chair of the International Symposium on Code Generation and Optimization (CGO) (2021, 2022), and as a PC member of numerous top-tier computer architecture and systems conferences, such as ISCA, ASPLOS, MICRO, MLSys, HPCA, SC, and Hot Chips. He spent a year as a visiting faculty researcher at Google DeepMind in Mountain View, CA, in 2022–2023. Before joining SNU, he was a research associate at Princeton University and a researcher and engineer at Parakinetics, Inc., where he conducted research on multicore software optimization. He also contributed to multiple successful VLSI implementation projects, including the Physical Uncloneable Function (PUF) and RAW Microprocessor at MIT. He received his B.S. in EE from SNU, his M.S. in EE from Stanford, and his Ph.D. in CS from MIT.
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+      <h2>
+        Wednesday, November 5: 
+        Efficient Big Graph Analytics Via Redundancy Reduction
+        </h2>
+        <i>Rajiv Gupta, University of California, Riverside</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Analyses on large graphs are an increasingly important computational workload, as graph analytics is employed in many domains. Therefore, a significant amount of research in this area has focused on developing frameworks that leverage the parallelism available on various hardware platforms, ranging from a single GPU or multicore server to a cluster of servers and/or GPUs. In this talk, I will describe our work, which combines parallelism with a complementary approach that comprehensively reduces redundancy to improve scalability. Redundancy can be found and removed not only from the computation and propagation of values, but also from graph traversal and data transfer across the memory hierarchy. Our work applies redundancy reduction to two major graph analytics scenarios, involving static (fixed) graphs and evolving (changing) graphs, and achieves substantial performance improvements.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p style="float: left;"><img src="images/rajivgupta.jpg" width="200px" border="1px">&nbsp;&nbsp;&nbsp;&nbsp;</p>
+      Rajiv is a Distinguished Professor and the Amrik Singh Poonian Chair in Computer Science at the University of California, Riverside. His research interests include compilers, architectures, and runtimes for parallel systems. He has co-authored over 300 papers, with more than 16,000 citations and an h-index of 69. He has supervised 42 Ph.D. dissertations, including those of two ACM SIGPLAN Outstanding Doctoral Dissertation Award winners. Rajiv is a Fellow of the IEEE, ACM, and AAAS. He received the NSF Presidential Young Investigator Award and the UCR Doctoral Dissertation Advisor/Mentor Award. He has chaired several major ACM/IEEE conferences, including FCRC, PLDI, HPCA, ASPLOS, PPoPP, and PACT. Rajiv also served as a member of a technical advisory group on networking and information technology established by the U.S. President’s Council of Advisors on Science and Technology.
+    </td>
+  </tr>
