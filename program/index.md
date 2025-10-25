@@ -84,6 +84,13 @@ show_sidebar: true
 	<tr>
 		<td>08:15</td>
 		<td>Keynote: <a href="#keynote1">TITLE</a>, Jae W. Lee, Seoul National University.</td>
+		<td>
+          Keynote: 
+          <a href="#keynote1">
+          AI's memory Challenges
+          </a>, 
+          Jae W. Lee, Seoul National University.
+        </td>
 	</tr>
 	<tr>
 		<td>09:15</td>
@@ -140,7 +147,13 @@ show_sidebar: true
     -->
 	<tr>
 		<td>08:15</td>
-		<td>Keynote: <a href="#keynote2">TITLE</a>, Rajiv Gupta, University of California, Riverside.</td>
+		<td>
+          Keynote: 
+          <a href="#keynote2">
+          Efficient Big Graph Analytics Via Redundancy Reduction
+          </a>, 
+          Rajiv Gupta, University of California, Riverside.
+        </td>
 	</tr>
 	<tr>
 		<td>09:15</td>
@@ -211,6 +224,7 @@ show_sidebar: true
 		<td>SRC Poster Presentations</td>
 
 	</tr>
+    <tr>
 		<td>10:45</td>
 
 {% include session8.html %}
