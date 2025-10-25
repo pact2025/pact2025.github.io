@@ -38,7 +38,7 @@ show_sidebar: true
           <!--
           <a href="TODO" target="_blank">
           -->
-            TITLE
+          CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems
           <!--
           </a>
           -->
@@ -54,7 +54,7 @@ show_sidebar: true
           <!--
           <a href="TODO" target="_blank">
           -->
-            TITLE
+          SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler
           <!--
           </a>
           -->
