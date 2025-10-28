@@ -33,7 +33,7 @@ show_sidebar: true
 	</tr>
     -->
 	<tr>
-		<td>09:00</td>
+		<td>08:30 -<br>&nspb;&nbsp;12:00</td>
 		<td><b>Tutorial:</b>
           <!--
           <a href="TODO" target="_blank">
@@ -42,6 +42,8 @@ show_sidebar: true
           <!--
           </a>
           -->
+          <br>
+          <i>Serhan Gener, Sahil Hassan, Ali Akoglu (Department of Electrical and Computer Engineering, University of Arizona)</i>
         </td>
 	</tr>
 	<tr>
@@ -49,7 +51,7 @@ show_sidebar: true
 		<td>Lunch</td>
 	</tr>
 	<tr>
-		<td>13:30</td>
+		<td>13:00 -<br>&nspb;&nbsp;18:00</td>
 		<td><b>Tutorial:</b>
           <!--
           <a href="TODO" target="_blank">
@@ -58,6 +60,8 @@ show_sidebar: true
           <!--
           </a>
           -->
+          <br>
+          <i>Bohm Agostini (PNNL), Vito Giovanni Castellana (PNNL), Fabrizio Ferrandi (Politecnico di Milano), Giovanni Gozzi (Politecnico di Milano), Ankur Limaye (PNNL), Antonino Tumeo (PNNL)</i>
         </td>
 	</tr>
 </table>
