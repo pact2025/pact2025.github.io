@@ -33,7 +33,7 @@ show_sidebar: true
 	</tr>
     -->
 	<tr>
-		<td>08:30 -<br>&nspb;&nbsp;12:00</td>
+		<td>08:30 -<br>&nbsp;&nbsp;12:00</td>
 		<td><b>Tutorial:</b>
           <!--
           <a href="TODO" target="_blank">
@@ -51,7 +51,7 @@ show_sidebar: true
 		<td>Lunch</td>
 	</tr>
 	<tr>
-		<td>13:00 -<br>&nspb;&nbsp;18:00</td>
+		<td>13:00 -<br>&nbsp;&nbsp;18:00</td>
 		<td><b>Tutorial:</b>
           <!--
           <a href="TODO" target="_blank">
