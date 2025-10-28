@@ -19,7 +19,7 @@ show_sidebar: true
 
 
 
-### Monday, November 3 <a id="wt-day1"></a>
+## Monday, November 3 <a id="wt-day1"></a>
 
 <table class="table table-striped">
 	<thead>
@@ -64,7 +64,7 @@ show_sidebar: true
 
 
 
-### Tuesday, November 4 <a id="conf-day1"></a>
+## Tuesday, November 4 <a id="conf-day1"></a>
 
 <table class="table table-striped">
 	<thead>
@@ -131,7 +131,7 @@ show_sidebar: true
 
 
 
-### Wednesday, November 5 <a id="conf-day2"></a>
+## Wednesday, November 5 <a id="conf-day2"></a>
 
 <table class="table table-striped">
 	<thead>
@@ -166,7 +166,7 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>12:00</td>
-		<td>Lunch</td>
+		<td>Lunch / Business Meeting</td>
 	</tr>
 	<tr>
 		<td>13:15</td>
@@ -184,17 +184,11 @@ show_sidebar: true
 {% include session6.html %}
 
 	</tr>
-	<tr>
-		<td>18:00</td>
-
-		<td>Business Meeting</td>
-
-	</tr>
 </table>
 
 
 
-### Thursday, November 6 <a id="conf-day3"></a>
+## Thursday, November 6 <a id="conf-day3"></a>
 
 <table class="table table-striped">
 	<thead>
