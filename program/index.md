@@ -35,13 +35,9 @@ show_sidebar: true
 	<tr>
 		<td>08:30<br>&ndash;<br>12:00</td>
 		<td><b>Tutorial:</b>
-          <!--
-          <a href="TODO" target="_blank">
-          -->
+          <a href="https://ua-rcl.github.io/projects/cedr/tutorials/pact25.html" target="_blank">
           CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems
-          <!--
           </a>
-          -->
           <br>
           <i>Serhan Gener, Sahil Hassan, Ali Akoglu (Department of Electrical and Computer Engineering, University of Arizona)</i>
         </td>
