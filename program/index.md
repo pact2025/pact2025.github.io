@@ -66,6 +66,8 @@ show_sidebar: true
 
 ## Tuesday, November 4 <a id="conf-day1"></a>
 
+<p>Room: Beach</p>
+
 <table class="table table-striped">
 	<thead>
 		<th>Time</th>
@@ -133,6 +135,8 @@ show_sidebar: true
 
 ## Wednesday, November 5 <a id="conf-day2"></a>
 
+<p>Room: Beach</p>
+
 <table class="table table-striped">
 	<thead>
 		<th>Time</th>
@@ -189,6 +193,8 @@ show_sidebar: true
 
 
 ## Thursday, November 6 <a id="conf-day3"></a>
+
+<p>Room: Beach</p>
 
 <table class="table table-striped">
 	<thead>
