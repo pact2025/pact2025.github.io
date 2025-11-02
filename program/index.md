@@ -6,9 +6,7 @@ layout:       page_sidebar
 show_sidebar: true
 ---
 
-<!--
- <a href="https://dl.acm.org/doi/proceedings/10.1145/3656019" class="btn btn-info btn-lg px-4">Proceedings</a> <br/>
- -->
+ <a href="https://conferences.computer.org/pactpub25/#!/toc/0" class="btn btn-info btn-lg px-4">WebPub Proceedings</a><br/>
 
 # Schedule
 
@@ -16,7 +14,6 @@ show_sidebar: true
 * [Tuesday, November 4, 2025](#conf-day1)
 * [Wednesday, November 5, 2025](#conf-day2)
 * [Thursday, November 6, 2025](#conf-day3)
-
 
 
 ## Monday, November 3 <a id="wt-day1"></a>
