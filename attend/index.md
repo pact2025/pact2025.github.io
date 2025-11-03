@@ -17,6 +17,9 @@ PACT 2025 will be held at the <br>
 Irvine, California 92697-7700 USA <br>
 Phone number: +1 949-824-2683 <br>
 
+### Venue parking
+**Free parking is available on site.**
+
 ## Hotels
 
 #### Irvine Courtyard by Marriott
