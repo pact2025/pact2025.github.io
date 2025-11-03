@@ -30,6 +30,11 @@ show_sidebar: true
 	</tr>
     -->
 	<tr>
+		<td>07:30</td>
+		<td>Breakfast
+        </td>
+	</tr>	
+	<tr>
 		<td>08:30<br>&ndash;<br>12:00</td>
 		<td><b>Tutorial:</b>
           <a href="https://ua-rcl.github.io/projects/cedr/tutorials/pact25.html" target="_blank">
@@ -76,6 +81,10 @@ show_sidebar: true
 		<td><i>Breakfast (provided)</i></td>
 	</tr>
     -->
+	<tr>
+		<td>07:30</td>
+		<td>Breakfast</td>
+	</tr>
 	<tr>
 		<td>08:00</td>
 		<td>Opening</td>
@@ -146,6 +155,10 @@ show_sidebar: true
 	</tr>
     -->
 	<tr>
+		<td>07:30</td>
+		<td>Breakfast</td>
+	</tr>
+	<tr>
 		<td>08:15</td>
 		<td>
           Keynote: 
@@ -204,6 +217,10 @@ show_sidebar: true
 		<td><i>Breakfast (provided)</i></td>
 	</tr>
     -->
+	<tr>
+		<td>07:30</td>
+		<td>Breakfast</td>
+	</tr>
 	<tr>
 		<td>08:15</td>
 
