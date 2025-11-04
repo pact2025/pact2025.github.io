@@ -7,6 +7,7 @@ show_sidebar: true
 ---
 
  <a href="https://conferences.computer.org/pactpub25/#!/toc/0" class="btn btn-info btn-lg px-4">WebPub Proceedings</a><br/>
+ <p><b>Note the updated credentials:</b> pactpub25 / conf25//</p>
 
 # Schedule
 
