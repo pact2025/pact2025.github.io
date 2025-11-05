@@ -11,83 +11,10 @@ show_sidebar: true
 
 # Schedule
 
-* [Tuesday, November 4, 2025](#conf-day1)
 * [Wednesday, November 5, 2025](#conf-day2)
 * [Thursday, November 6, 2025](#conf-day3)
 * [Monday, November 3, 2025](#wt-day1)
-
-
-## Tuesday, November 4 <a id="conf-day1"></a>
-
-<p>Room: Beach</p>
-
-<table class="table table-striped">
-	<thead>
-		<th>Time</th>
-		<th>What</th>
-	</thead>
-    <!--
-	<tr>
-		<td>07:30</td>
-		<td><i>Breakfast (provided)</i></td>
-	</tr>
-    -->
-	<tr>
-		<td>07:30</td>
-		<td>Breakfast</td>
-	</tr>
-	<tr>
-		<td>08:00</td>
-		<td>Opening</td>
-	</tr>
-	<tr>
-		<td>08:15</td>
-		<td>
-          Keynote: 
-          <a href="#keynote1">
-          AI's memory Challenges
-          </a>, 
-          Jae W. Lee, Seoul National University.
-        </td>
-	</tr>
-	<tr>
-		<td>09:15</td>
-		<td>Break</td>
-	</tr>
-	<tr>
-		<td>09:45</td>
-
-{% include session1.html %}
-
-	</tr>
-	<tr>
-		<td>12:00</td>
-		<td>Lunch</td>
-	</tr>
-	<tr>
-		<td>13:15</td>
-
-{% include session2.html %}
-
-	</tr>
-	<tr>
-		<td>15:30</td>
-		<td>Break</td>
-	</tr>
-	<tr>
-		<td>16:00</td>
-
-{% include session3.html %}
-
-	</tr>
-	<tr>
-		<td>18:00</td>
-
-{% include session_posters.html %}
-
-	</tr>
-</table>
-
+* [Tuesday, November 4, 2025](#conf-day1)
 
 
 ## Wednesday, November 5 <a id="conf-day2"></a>
@@ -249,6 +176,79 @@ show_sidebar: true
           <br>
           <i>Bohm Agostini (PNNL), Vito Giovanni Castellana (PNNL), Fabrizio Ferrandi (Politecnico di Milano), Giovanni Gozzi (Politecnico di Milano), Ankur Limaye (PNNL), Antonino Tumeo (PNNL)</i>
         </td>
+	</tr>
+</table>
+
+
+
+## Tuesday, November 4 <a id="conf-day1"></a>
+
+<p>Room: Beach</p>
+
+<table class="table table-striped">
+	<thead>
+		<th>Time</th>
+		<th>What</th>
+	</thead>
+    <!--
+	<tr>
+		<td>07:30</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>
+    -->
+	<tr>
+		<td>07:30</td>
+		<td>Breakfast</td>
+	</tr>
+	<tr>
+		<td>08:00</td>
+		<td>Opening</td>
+	</tr>
+	<tr>
+		<td>08:15</td>
+		<td>
+          Keynote: 
+          <a href="#keynote1">
+          AI's memory Challenges
+          </a>, 
+          Jae W. Lee, Seoul National University.
+        </td>
+	</tr>
+	<tr>
+		<td>09:15</td>
+		<td>Break</td>
+	</tr>
+	<tr>
+		<td>09:45</td>
+
+{% include session1.html %}
+
+	</tr>
+	<tr>
+		<td>12:00</td>
+		<td>Lunch</td>
+	</tr>
+	<tr>
+		<td>13:15</td>
+
+{% include session2.html %}
+
+	</tr>
+	<tr>
+		<td>15:30</td>
+		<td>Break</td>
+	</tr>
+	<tr>
+		<td>16:00</td>
+
+{% include session3.html %}
+
+	</tr>
+	<tr>
+		<td>18:00</td>
+
+{% include session_posters.html %}
+
 	</tr>
 </table>
 
