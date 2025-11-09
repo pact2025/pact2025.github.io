@@ -7,59 +7,13 @@ show_sidebar: true
 ---
 
  <a href="https://conferences.computer.org/pactpub25/#!/toc/0" class="btn btn-info btn-lg px-4">WebPub Proceedings</a><br/>
- <p><b>Note the updated credentials:</b> pactpub25 / conf25//</p>
 
 # Schedule
 
-* [Thursday, November 6, 2025](#conf-day3)
 * [Monday, November 3, 2025](#wt-day1)
 * [Tuesday, November 4, 2025](#conf-day1)
 * [Wednesday, November 5, 2025](#conf-day2)
-
-
-## Thursday, November 6 <a id="conf-day3"></a>
-
-<p>Room: Beach</p>
-
-<table class="table table-striped">
-    <thead>
-        <th>Time</th>
-        <th>What</th>
-    </thead>
-    <tr>
-        <td>07:30</td>
-        <td>Breakfast</td>
-    </tr>
-    <tr>
-        <td>08:15</td>
-
-{% include session7.html %}
-
-    </tr>
-    <tr>
-        <td>09:30</td>
-        <td>Break</td>
-    </tr>
-    <tr>
-        <td>09:45</td>
-
-        <td>SRC Poster Presentations</td>
-
-    </tr>
-    <tr>
-        <td>10:45</td>
-
-{% include session8.html %}
-
-    </tr>
-    <tr>
-        <td>12:00</td>
-
-        <td>Closing</td>
-
-    </tr>
-</table>
-
+* [Thursday, November 6, 2025](#conf-day3)
 
 
 ## Monday, November 3 <a id="wt-day1"></a>
@@ -224,6 +178,51 @@ show_sidebar: true
         <td>16:00</td>
 
 {% include session6.html %}
+
+    </tr>
+</table>
+
+
+
+## Thursday, November 6 <a id="conf-day3"></a>
+
+<p>Room: Beach</p>
+
+<table class="table table-striped">
+    <thead>
+        <th>Time</th>
+        <th>What</th>
+    </thead>
+    <tr>
+        <td>07:30</td>
+        <td>Breakfast</td>
+    </tr>
+    <tr>
+        <td>08:15</td>
+
+{% include session7.html %}
+
+    </tr>
+    <tr>
+        <td>09:30</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>09:45</td>
+
+        <td>SRC Poster Presentations</td>
+
+    </tr>
+    <tr>
+        <td>10:45</td>
+
+{% include session8.html %}
+
+    </tr>
+    <tr>
+        <td>12:00</td>
+
+        <td>Closing</td>
 
     </tr>
 </table>
